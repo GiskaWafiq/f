@@ -1,2 +1,0 @@
-# kolaborasigit
-kolaborasi git sederhana
